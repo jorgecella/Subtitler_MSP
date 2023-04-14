@@ -202,14 +202,14 @@ namespace Subtitler_MSP
         {
             //execute console script
             Label1.Content = Label1.Content +Environment.NewLine+ "Getting English Subtitles";
-           System.Diagnostics.Process.Start("cmd.exe", "/c C:\\Users\\jorgec\\source\\repos\\Subtitler_MSP\\cap\\captioning.exe --key 57756965b6af4d04a5ef265bd88d109d --region eastus --input "+ FileDirectory_TextBox.Text +" --format any --output "+ TextBorrar.Text +".srt --srt --realTime --threshold 5 --delay 0 --profanity mask " );
+           System.Diagnostics.Process.Start("cmd.exe", "/c C:\\Users\\jorgec\\source\\repos\\Subtitler_MSP\\cap\\captioning.exe --key xxx --region eastus --input "+ FileDirectory_TextBox.Text +" --format any --output "+ TextBorrar.Text +".srt --srt --realTime --threshold 5 --delay 0 --profanity mask " );
 
 
 
 
             
         }
-        private static readonly string key = "696bd263477246d5a5db7749cd415aba";
+        private static readonly string key = "";
         private static readonly string endpoint = "https://api.cognitive.microsofttranslator.com/";
         
        
