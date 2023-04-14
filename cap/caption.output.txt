@@ -1,0 +1,1340 @@
+1
+00:00:00,590 --> 00:00:00,870
+Search
+
+2
+00:00:00,870 --> 00:00:01,230
+Search engines
+
+3
+00:00:01,230 --> 00:00:01,390
+Search engines are
+
+4
+00:00:01,390 --> 00:00:01,890
+Search engines are designed to
+
+5
+00:00:01,890 --> 00:00:02,120
+Search engines are designed to
+provide
+
+6
+00:00:02,120 --> 00:00:02,430
+Search engines are designed to
+provide you
+
+7
+00:00:02,430 --> 00:00:02,570
+Search engines are designed to
+provide you with
+
+8
+00:00:02,570 --> 00:00:02,880
+Search engines are designed to
+provide you with the best
+
+9
+00:00:02,880 --> 00:00:03,360
+Search engines are designed to
+provide you with the best results
+
+10
+00:00:03,360 --> 00:00:03,630
+provide you with the best results
+that are
+
+11
+00:00:03,630 --> 00:00:03,890
+provide you with the best results
+that are most
+
+12
+00:00:03,890 --> 00:00:04,170
+provide you with the best results
+that are most likely
+
+13
+00:00:04,170 --> 00:00:04,900
+that are most likely relevant to
+your
+
+14
+00:00:04,900 --> 00:00:05,230
+that are most likely relevant to your
+search
+
+15
+00:00:05,230 --> 00:00:05,580
+that are most likely relevant to your
+search ward
+
+16
+00:00:05,580 --> 00:00:05,920
+that are most likely relevant to your
+search word or phrase
+
+17
+00:00:05,920 --> 00:00:07,030
+that are most likely relevant to your
+search word or phrase. They can't
+
+18
+00:00:07,030 --> 00:00:07,390
+search word or phrase. They can't
+always
+
+19
+00:00:07,390 --> 00:00:07,680
+search word or phrase. They can't
+always accurate
+
+20
+00:00:07,680 --> 00:00:07,770
+search word or phrase. They can't
+always accurately
+
+21
+00:00:07,770 --> 00:00:08,250
+search word or phrase. They can't
+always accurately predict what
+
+22
+00:00:08,250 --> 00:00:08,470
+always accurately predict what
+you're
+
+23
+00:00:08,470 --> 00:00:08,750
+always accurately predict what you're
+looking
+
+24
+00:00:08,750 --> 00:00:08,910
+always accurately predict what you're
+looking for
+
+25
+00:00:08,910 --> 00:00:09,920
+always accurately predict what you're
+looking for, but there are some
+
+26
+00:00:09,920 --> 00:00:10,440
+looking for,
+but there are some techniques you
+
+27
+00:00:10,440 --> 00:00:10,710
+but there are some techniques you can
+use
+
+28
+00:00:10,710 --> 00:00:10,950
+but there are some techniques you can
+use to
+
+29
+00:00:10,950 --> 00:00:11,210
+but there are some techniques you can
+use to make it
+
+30
+00:00:11,210 --> 00:00:11,640
+but there are some techniques you can
+use to make it more likely
+
+31
+00:00:11,640 --> 00:00:12,200
+use to make it more likely you'll
+find what
+
+32
+00:00:12,200 --> 00:00:12,690
+use to make it more likely. You'll
+find what you need in
+
+33
+00:00:12,690 --> 00:00:12,780
+use to make it more likely. You'll
+find what you need in the
+
+34
+00:00:12,780 --> 00:00:13,000
+use to make it more likely you'll
+find what you need in the search
+
+35
+00:00:13,000 --> 00:00:13,330
+find what you need in the search
+results
+
+36
+00:00:13,330 --> 00:00:14,490
+find what you need in the search
+results.
+
+37
+00:00:14,670 --> 00:00:15,160
+I'm using the
+
+38
+00:00:15,160 --> 00:00:15,690
+I'm using the Bing search
+
+39
+00:00:15,690 --> 00:00:16,250
+I'm using the Bing search engine
+which is
+
+40
+00:00:16,250 --> 00:00:16,750
+I'm using the Bing search engine
+which is the default
+
+41
+00:00:16,750 --> 00:00:17,230
+I'm using the Bing search engine
+which is the default search engine
+
+42
+00:00:17,230 --> 00:00:17,630
+which is the default search engine
+here in
+
+43
+00:00:17,630 --> 00:00:18,260
+which is the default search engine
+here in Microsoft Edge
+
+44
+00:00:18,260 --> 00:00:19,040
+here in Microsoft Edge,
+but these rules
+
+45
+00:00:19,040 --> 00:00:19,470
+here in Microsoft Edge,
+but these rules alley for
+
+46
+00:00:19,470 --> 00:00:20,070
+here in Microsoft Edge,
+but these rules alley for nearly all
+
+47
+00:00:20,070 --> 00:00:20,570
+but these rules alley for nearly all
+search engines
+
+48
+00:00:20,570 --> 00:00:22,280
+but these rules alley for nearly all
+search engines first of all there
+
+49
+00:00:22,280 --> 00:00:22,360
+search engines. First of all,
+there's
+
+50
+00:00:22,360 --> 00:00:22,950
+engines. First of all,
+there's no need to enter
+
+51
+00:00:22,950 --> 00:00:23,300
+engines. First of all,
+there's no need to enter long
+
+52
+00:00:23,300 --> 00:00:23,930
+there's no need to enter long
+sentences or
+
+53
+00:00:23,930 --> 00:00:24,700
+there's no need to enter long
+sentences or phrases for you
+
+54
+00:00:24,700 --> 00:00:25,040
+there's no need to enter long
+sentences or phrases for your search
+
+55
+00:00:25,040 --> 00:00:26,280
+sentences or phrases for your search
+O don't type
+
+56
+00:00:26,280 --> 00:00:26,790
+sentences or phrases for your search
+O don't type something like
+
+57
+00:00:26,790 --> 00:00:27,370
+O don't type something like. How do
+I
+
+58
+00:00:27,370 --> 00:00:27,980
+O don't type something like how do I
+bake a chocolate
+
+59
+00:00:27,980 --> 00:00:28,230
+O don't type something like how do I
+bake a chocolate cake
+
+60
+00:00:28,230 --> 00:00:29,170
+O don't type something like. How do I
+bake a chocolate cake? Instead just
+
+61
+00:00:29,170 --> 00:00:29,470
+bake a chocolate cake? Instead,
+just type
+
+62
+00:00:29,470 --> 00:00:30,120
+bake a chocolate cake? Instead,
+just type chocolate
+
+63
+00:00:30,120 --> 00:00:30,320
+bake a chocolate cake? Instead,
+just type chocolate cake
+
+64
+00:00:30,320 --> 00:00:31,520
+bake a chocolate cake? Instead,
+just type chocolate cake.
+
+65
+00:00:31,560 --> 00:00:32,040
+And as you can
+
+66
+00:00:32,040 --> 00:00:32,620
+And as you can see those two
+
+67
+00:00:32,620 --> 00:00:33,170
+And as you can see,
+those two words give
+
+68
+00:00:33,170 --> 00:00:33,680
+And as you can see,
+those two words give me results
+
+69
+00:00:33,680 --> 00:00:33,790
+And as you can see,
+those two words give me results for
+
+70
+00:00:33,790 --> 00:00:34,140
+And as you can see those two words
+give me results for different
+
+71
+00:00:34,140 --> 00:00:34,460
+those two words give me results for
+different recipes
+
+72
+00:00:34,460 --> 00:00:35,960
+those two words give me results for
+different recipes photos of cakes
+
+73
+00:00:35,960 --> 00:00:36,550
+different recipes, photos of cakes,
+video
+
+74
+00:00:36,550 --> 00:00:37,070
+different recipes. Photos of cakes,
+video lessons on
+
+75
+00:00:37,070 --> 00:00:37,510
+different recipes. Photos of cakes,
+video lessons on how to bake
+
+76
+00:00:37,510 --> 00:00:38,230
+video lessons on how to bake
+chocolate cakes
+
+77
+00:00:38,230 --> 00:00:38,520
+video lessons on how to bake,
+chocolate cakes and
+
+78
+00:00:38,520 --> 00:00:38,780
+video lessons on how to bake
+chocolate cakes and so
+
+79
+00:00:38,780 --> 00:00:39,000
+video lessons on how to bake
+chocolate cakes and so on
+
+80
+00:00:39,000 --> 00:00:39,840
+video lessons on how to bake
+chocolate cakes and so on for
+
+81
+00:00:39,840 --> 00:00:40,290
+chocolate cakes and so on for many
+types of
+
+82
+00:00:40,290 --> 00:00:40,960
+and so on for many types of searches.
+Bing
+
+83
+00:00:40,960 --> 00:00:41,550
+and so on for many types of searches,
+Bing and other search
+
+84
+00:00:41,550 --> 00:00:41,890
+and so on for many types of searches,
+Bing and other search engines
+
+85
+00:00:41,890 --> 00:00:42,580
+Bing and other search engines will
+offer
+
+86
+00:00:42,580 --> 00:00:42,930
+Bing and other search engines will
+offer search
+
+87
+00:00:42,930 --> 00:00:43,500
+Bing and other search engines will
+offer search suggestions
+
+88
+00:00:43,500 --> 00:00:44,300
+offer search suggestions that can
+help you
+
+89
+00:00:44,300 --> 00:00:44,520
+offer search suggestions that can
+help you get to
+
+90
+00:00:44,520 --> 00:00:45,380
+offer search suggestions that can
+help you get to popular results
+
+91
+00:00:45,380 --> 00:00:45,460
+offer search suggestions that can
+help you get to popular results more
+
+92
+00:00:45,460 --> 00:00:45,740
+help you get to popular results more
+quickly
+
+93
+00:00:45,740 --> 00:00:47,100
+help you get to popular results more
+quickly. So for example
+
+94
+00:00:47,100 --> 00:00:47,750
+quickly. So for example,
+I want to find out
+
+95
+00:00:47,750 --> 00:00:48,060
+quickly. So, for example,
+I want to find out what the
+
+96
+00:00:48,060 --> 00:00:48,830
+I want to find out what the weather
+in San
+
+97
+00:00:48,830 --> 00:00:49,350
+I want to find out what the weather
+in San Francisco is
+
+98
+00:00:49,350 --> 00:00:49,800
+I want to find out what the weather
+in San Francisco is like right now
+
+99
+00:00:49,800 --> 00:00:51,020
+in San Francisco is like right now,
+so I'll come
+
+100
+00:00:51,020 --> 00:00:51,660
+in San Francisco is like right now,
+so I'll come back U to the address
+
+101
+00:00:51,660 --> 00:00:52,100
+so I'll come back U to the address
+bar and
+
+102
+00:00:52,100 --> 00:00:52,680
+so I'll come back U to the address
+bar and start typing
+
+103
+00:00:52,680 --> 00:00:52,970
+so I'll come back U to the address
+bar and start typing San
+
+104
+00:00:52,970 --> 00:00:53,360
+so I'll come back U to the address
+bar and start typing San Francisco
+
+105
+00:00:53,360 --> 00:00:54,370
+bar and start typing San Francisco
+and
+
+106
+00:00:54,370 --> 00:00:54,900
+bar and start typing San Francisco.
+And as I type
+
+107
+00:00:54,900 --> 00:00:55,790
+bar and start typing San Francisco,
+and as I type several, search
+
+108
+00:00:55,790 --> 00:00:56,610
+And as I type,
+several search suggestions appear
+
+109
+00:00:56,610 --> 00:00:57,270
+several search suggestions appear
+below the search
+
+110
+00:00:57,270 --> 00:00:57,490
+several search suggestions appear
+below the search field
+
+111
+00:00:57,490 --> 00:00:58,850
+below the search field if you see
+the
+
+112
+00:00:58,850 --> 00:00:59,290
+below the search field if you see the
+search term
+
+113
+00:00:59,290 --> 00:00:59,390
+below the search field. If you see
+the search term, you
+
+114
+00:00:59,390 --> 00:00:59,760
+below the search field if you see the
+search term you want to use
+
+115
+00:00:59,760 --> 00:01:00,520
+search term you want to use instead
+of
+
+116
+00:01:00,520 --> 00:01:01,060
+search term you want to use instead
+of typing out the
+
+117
+00:01:01,060 --> 00:01:01,410
+search term you want to use instead
+of typing out the rest of it
+
+118
+00:01:01,410 --> 00:01:01,860
+search term you want to use instead
+of typing out the rest of it.
+
+119
+00:01:01,860 --> 00:01:02,280
+of typing out the rest of it.
+Just use your
+
+120
+00:01:02,280 --> 00:01:02,830
+of typing out the rest of it.
+Just use your mouse to click
+
+121
+00:01:02,830 --> 00:01:03,410
+Just use your mouse to click the
+suggestion
+
+122
+00:01:03,410 --> 00:01:04,460
+Just use your mouse to click the
+suggestion.
+
+123
+00:01:04,460 --> 00:01:04,720
+suggestion.
+And I
+
+124
+00:01:04,720 --> 00:01:05,130
+suggestion.
+And I quickly show
+
+125
+00:01:05,130 --> 00:01:05,410
+suggestion.
+And I quickly shows me the
+
+126
+00:01:05,410 --> 00:01:05,950
+And I quickly shows me the forecast
+for
+
+127
+00:01:05,950 --> 00:01:06,250
+And I quickly shows me the forecast
+for San
+
+128
+00:01:06,250 --> 00:01:07,030
+And I quickly shows me the forecast
+for San Francisco as the
+
+129
+00:01:07,030 --> 00:01:07,440
+And I quickly shows me the forecast
+for San Francisco as the top search
+
+130
+00:01:07,440 --> 00:01:07,690
+for San Francisco as the top search
+result
+
+131
+00:01:07,690 --> 00:01:08,740
+for San Francisco as the top search
+result. Let's look
+
+132
+00:01:08,740 --> 00:01:09,060
+for San Francisco as the top search
+result. Let's look at another
+
+133
+00:01:09,060 --> 00:01:09,380
+result. Let's look at another
+example
+
+134
+00:01:09,380 --> 00:01:10,340
+result. Let's look at another example
+I'm looking
+
+135
+00:01:10,340 --> 00:01:11,000
+result. Let's look at another example.
+I'm looking for a song I
+
+136
+00:01:11,000 --> 00:01:11,460
+I'm looking for a song I heard,
+but I
+
+137
+00:01:11,460 --> 00:01:12,040
+I'm looking for a song I heard,
+but I only remember
+
+138
+00:01:12,040 --> 00:01:12,690
+I'm looking for a song I heard,
+but I only remember a small portion
+
+139
+00:01:12,690 --> 00:01:12,960
+but I only remember a small portion
+of the
+
+140
+00:01:12,960 --> 00:01:13,360
+but I only remember a small portion
+of the lyrics
+
+141
+00:01:13,360 --> 00:01:14,360
+but I only remember a small portion
+of the lyrics. I'll type those
+
+142
+00:01:14,360 --> 00:01:14,680
+of the lyrics. I'll type those
+lyrics
+
+143
+00:01:14,680 --> 00:01:15,960
+of the lyrics. I'll type those lyrics
+Lans get
+
+144
+00:01:15,960 --> 00:01:16,410
+of the lyrics. I'll type those lyrics
+Lans get in the way
+
+145
+00:01:16,410 --> 00:01:17,400
+of the lyrics. I'll type those lyrics
+Lans get in the way.
+
+146
+00:01:17,400 --> 00:01:17,790
+Lans get in the way.
+Followed
+
+147
+00:01:17,790 --> 00:01:18,160
+Lans get in the way.
+Followed by the word
+
+148
+00:01:18,160 --> 00:01:18,590
+Lans get in the way.
+Followed by the word lyrics
+
+149
+00:01:18,590 --> 00:01:19,850
+Lans get in the way.
+Followed by the word lyrics.
+
+150
+00:01:20,290 --> 00:01:20,670
+To narrow
+
+151
+00:01:20,670 --> 00:01:20,970
+To narrow down the
+
+152
+00:01:20,970 --> 00:01:21,350
+To narrow down the results
+
+153
+00:01:21,350 --> 00:01:22,300
+To narrow down the results, I'll put
+
+154
+00:01:22,300 --> 00:01:22,510
+To narrow down the results,
+I'll put quotes
+
+155
+00:01:22,510 --> 00:01:22,890
+To narrow down the results,
+I'll put quotes around the
+
+156
+00:01:22,890 --> 00:01:23,260
+To narrow down the results,
+I'll put quotes around the lyrics
+
+157
+00:01:23,260 --> 00:01:24,610
+To narrow down the results,
+I'll put quotes around the lyrics.
+
+158
+00:01:25,340 --> 00:01:25,760
+Followed by
+
+159
+00:01:25,760 --> 00:01:26,360
+Followed by lyrics again
+
+160
+00:01:26,360 --> 00:01:27,500
+Followed by lyrics again.
+
+161
+00:01:27,620 --> 00:01:27,760
+And
+
+162
+00:01:27,760 --> 00:01:27,940
+And that
+
+163
+00:01:27,940 --> 00:01:28,300
+And that will find me
+
+164
+00:01:28,300 --> 00:01:28,950
+And that will find me lyrics that
+only
+
+165
+00:01:28,950 --> 00:01:29,390
+And that will find me lyrics that
+only have those
+
+166
+00:01:29,390 --> 00:01:29,750
+And that will find me lyrics that
+only have those words
+
+167
+00:01:29,750 --> 00:01:29,990
+And that will find me lyrics that
+only have those words in that
+
+168
+00:01:29,990 --> 00:01:30,240
+And that will find me lyrics that
+only have those words in that order
+
+169
+00:01:30,240 --> 00:01:31,440
+And that will find me lyrics that
+only have those words in that order.
+
+170
+00:01:31,440 --> 00:01:31,730
+only have those words in that order.
+And in
+
+171
+00:01:31,730 --> 00:01:31,800
+only have those words in that order.
+And in the
+
+172
+00:01:31,800 --> 00:01:32,270
+only have those words in that order.
+And in the results I
+
+173
+00:01:32,270 --> 00:01:32,810
+only have those words in that order.
+And in the results I can see that
+
+174
+00:01:32,810 --> 00:01:33,250
+And in the results I can see that
+phrase is
+
+175
+00:01:33,250 --> 00:01:33,520
+And in the results I can see that
+phrase is in bold
+
+176
+00:01:33,520 --> 00:01:34,320
+And in the results I can see that
+phrase is in bold for each
+
+177
+00:01:34,320 --> 00:01:34,610
+And in the results I can see that
+phrase is in bold for each link
+
+178
+00:01:34,610 --> 00:01:35,520
+phrase is in bold for each link,
+letting me quickly
+
+179
+00:01:35,520 --> 00:01:36,170
+phrase is in bold for each link,
+letting me quickly read through to
+
+180
+00:01:36,170 --> 00:01:36,280
+letting me quickly read through to
+see
+
+181
+00:01:36,280 --> 00:01:36,480
+letting me quickly read through to
+see if I
+
+182
+00:01:36,480 --> 00:01:37,170
+letting me quickly read through to
+see if I recognize the song
+
+183
+00:01:37,170 --> 00:01:37,760
+see if I recognize the song I'm
+looking for
+
+184
+00:01:37,760 --> 00:01:38,930
+see if I recognize the song. I'm
+looking for you
+
+185
+00:01:38,930 --> 00:01:39,540
+see if I recognize the song I'm
+looking for. You can also take a
+
+186
+00:01:39,540 --> 00:01:39,900
+looking for. You can also take
+advantage of
+
+187
+00:01:39,900 --> 00:01:40,670
+looking for. You can also take
+advantage of Bing search engine
+
+188
+00:01:40,670 --> 00:01:41,070
+advantage of Bing search engine
+smart
+
+189
+00:01:41,070 --> 00:01:41,430
+advantage of Bing search engine smart
+features
+
+190
+00:01:41,430 --> 00:01:42,160
+advantage of Bing search engine smart
+features for
+
+191
+00:01:42,160 --> 00:01:42,920
+advantage of Bing search engine smart
+features. For example, I'll type
+
+192
+00:01:42,920 --> 00:01:44,180
+advantage of Bing search engine smart
+features. For example, I'll type.
+
+193
+00:01:44,180 --> 00:01:44,530
+features. For example, I'll type.
+Square
+
+194
+00:01:44,530 --> 00:01:44,770
+features. For example, I'll type.
+Square root
+
+195
+00:01:44,770 --> 00:01:45,760
+features. For example, I'll type.
+Square of
+
+196
+00:01:45,760 --> 00:01:46,010
+features. For example, I'll type.
+Sqrt 1
+
+197
+00:01:46,010 --> 00:01:46,460
+features. For example, I'll type.
+Sqrt 140
+
+198
+00:01:46,460 --> 00:01:46,600
+features. For example, I'll type.
+Sqrt 144
+
+199
+00:01:46,600 --> 00:01:48,020
+features. For example, I'll type.
+Sqrt 144.
+
+200
+00:01:48,030 --> 00:01:48,660
+And that not only
+
+201
+00:01:48,660 --> 00:01:49,160
+And that not only gives me the
+
+202
+00:01:49,160 --> 00:01:49,750
+And that not only gives me the
+correct answer
+
+203
+00:01:49,750 --> 00:01:50,230
+And that not only gives me the
+correct answer, but
+
+204
+00:01:50,230 --> 00:01:50,930
+correct answer,
+but this is actually a
+
+205
+00:01:50,930 --> 00:01:51,320
+correct answer,
+but this is actually a real
+
+206
+00:01:51,320 --> 00:01:51,570
+correct answer,
+but this is actually a real working
+
+207
+00:01:51,570 --> 00:01:52,570
+but this is actually a real working
+calculator, so I
+
+208
+00:01:52,570 --> 00:01:53,170
+but this is actually a real working
+calculator so I can perform other
+
+209
+00:01:53,170 --> 00:01:53,780
+calculator so I can perform other
+calculations
+
+210
+00:01:53,780 --> 00:01:54,190
+calculator so I can perform other
+calculations right from
+
+211
+00:01:54,190 --> 00:01:54,320
+calculator so I can perform other
+calculations right from here
+
+212
+00:01:54,320 --> 00:01:55,480
+calculator so I can perform other
+calculations right from here.
+
+213
+00:01:56,530 --> 00:01:57,020
+And below that
+
+214
+00:01:57,020 --> 00:01:57,500
+And below that I can find
+
+215
+00:01:57,500 --> 00:01:58,010
+And below that I can find other
+search
+
+216
+00:01:58,010 --> 00:01:58,630
+And below that I can find other
+search results related
+
+217
+00:01:58,630 --> 00:01:58,910
+And below that I can find other
+search results related to my
+
+218
+00:01:58,910 --> 00:01:59,640
+search results related to my original
+search
+
+219
+00:01:59,640 --> 00:02:00,380
+search results related to my original
+search about square root
+
+220
+00:02:00,380 --> 00:02:00,430
+search results related to my original
+search about square roots
+
+221
+00:02:00,430 --> 00:02:01,760
+search about square roots another
+smart
+
+222
+00:02:01,760 --> 00:02:02,450
+search about square roots. Another
+smart feature is the
+
+223
+00:02:02,450 --> 00:02:02,810
+search about square roots. Another
+smart feature is the language
+
+224
+00:02:02,810 --> 00:02:03,340
+smart feature is the language
+translation
+
+225
+00:02:03,340 --> 00:02:04,570
+smart feature is the language
+translation I can type
+
+226
+00:02:04,570 --> 00:02:05,090
+translation. I can type something
+like
+
+227
+00:02:05,090 --> 00:02:05,960
+translation. I can type something
+like say
+
+228
+00:02:05,960 --> 00:02:06,170
+translation. I can type something say
+hello
+
+229
+00:02:06,170 --> 00:02:06,950
+translation. I can type something say
+hello in
+
+230
+00:02:06,950 --> 00:02:07,390
+translation. I can type something
+like say hello in French
+
+231
+00:02:07,390 --> 00:02:08,640
+translation. I can type something
+like say hello in French.
+
+232
+00:02:09,330 --> 00:02:09,450
+And
+
+233
+00:02:09,450 --> 00:02:09,730
+And the first
+
+234
+00:02:09,730 --> 00:02:09,960
+And the 1st result
+
+235
+00:02:09,960 --> 00:02:10,410
+And the 1st result gives me a
+
+236
+00:02:10,410 --> 00:02:10,650
+And the 1st result gives me a direct
+
+237
+00:02:10,650 --> 00:02:11,130
+And the 1st result gives me a direct
+translation
+
+238
+00:02:11,130 --> 00:02:12,150
+And the 1st result gives me a direct
+translation and like the
+
+239
+00:02:12,150 --> 00:02:12,690
+And the 1st result gives me a direct
+translation and like the calculator
+
+240
+00:02:12,690 --> 00:02:12,890
+translation and like the calculator
+this
+
+241
+00:02:12,890 --> 00:02:13,420
+translation and like the calculator
+this is a live
+
+242
+00:02:13,420 --> 00:02:13,740
+translation and like the calculator
+this is a live tool
+
+243
+00:02:13,740 --> 00:02:14,540
+translation and like the calculator
+this is a live tool so I can type
+
+244
+00:02:14,540 --> 00:02:14,650
+translation and like the calculator
+this is a live tool so I can type in
+
+245
+00:02:14,650 --> 00:02:14,900
+this is a live tool so I can type in
+other
+
+246
+00:02:14,900 --> 00:02:15,190
+this is a live tool so I can type in
+other words
+
+247
+00:02:15,190 --> 00:02:15,610
+this is a live tool so I can type in
+other words and select
+
+248
+00:02:15,610 --> 00:02:15,710
+this is a live tool so I can type in
+other words and select OK
+
+249
+00:02:15,710 --> 00:02:16,190
+other words and select other
+languages
+
+250
+00:02:16,190 --> 00:02:16,390
+other words and select other
+languages to
+
+251
+00:02:16,390 --> 00:02:16,760
+other words and select other
+languages to translate
+
+252
+00:02:16,760 --> 00:02:17,990
+other words and select other
+languages to translate.
+
+253
+00:02:20,430 --> 00:02:20,750
+Or maybe
+
+254
+00:02:20,750 --> 00:02:21,120
+Or maybe I want to see
+
+255
+00:02:21,120 --> 00:02:21,260
+Or maybe I want to see how
+
+256
+00:02:21,260 --> 00:02:21,380
+Or maybe I want to see how to
+
+257
+00:02:21,380 --> 00:02:21,800
+Or maybe I want to see how to say
+that in
+
+258
+00:02:21,800 --> 00:02:22,110
+Or maybe I want to see how to say
+that in German
+
+259
+00:02:22,110 --> 00:02:23,280
+Or maybe I want to see how to say
+that in German.
+
+260
+00:02:23,750 --> 00:02:23,850
+And
+
+261
+00:02:23,850 --> 00:02:24,230
+And there it is
+
+262
+00:02:24,230 --> 00:02:25,360
+And there it is, O there you
+
+263
+00:02:25,360 --> 00:02:25,510
+And there it is, O there you have
+
+264
+00:02:25,510 --> 00:02:26,100
+And there it is O there you have
+several tips for
+
+265
+00:02:26,100 --> 00:02:26,350
+And there it is O there you have
+several tips for getting
+
+266
+00:02:26,350 --> 00:02:26,570
+O there you have several tips for
+getting more
+
+267
+00:02:26,570 --> 00:02:27,170
+several tips for getting more
+effective and
+
+268
+00:02:27,170 --> 00:02:27,490
+O. There you have several tips for
+getting more effective and useful
+
+269
+00:02:27,490 --> 00:02:27,880
+several tips for getting more
+effective and useful results
+
+270
+00:02:27,880 --> 00:02:28,050
+several tips for getting more
+effective and useful results from
+
+271
+00:02:28,050 --> 00:02:28,430
+effective and useful results from
+your search
+
+272
+00:02:28,430 --> 00:02:28,560
+getting more effective and useful
+results from your searches
+
+273
+00:02:28,560 --> 00:02:28,960
+getting more effective and useful
+results from your searches more
+
+274
+00:02:28,960 --> 00:02:29,290
+effective and useful results from
+your searches more quickly
+
+275
+00:02:29,290 --> 00:02:29,500
+effective and useful results from
+your searches more quickly.
+
